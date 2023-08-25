@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Rushi-cv/static/css/main.dc3f4b96.css",
+    "main.js": "/Rushi-cv/static/js/main.777483ff.js",
+    "static/media/ecommerce.png": "/Rushi-cv/static/media/ecommerce.329980823457dcdeb55a.png",
+    "static/media/hoc.png": "/Rushi-cv/static/media/hoc.2558fb35b2b892f257ec.png",
+    "static/media/profile1.png": "/Rushi-cv/static/media/profile1.a90e40228d20125626c3.png",
+    "static/media/profile2.png": "/Rushi-cv/static/media/profile2.3b4ab65a39b0167c5e02.png",
+    "static/media/profile4.png": "/Rushi-cv/static/media/profile4.d32bb0c5915e9f88cd02.png",
+    "static/media/musicapp.png": "/Rushi-cv/static/media/musicapp.23361fdeadc161533150.png",
+    "static/media/profile3.png": "/Rushi-cv/static/media/profile3.5a9c8096f9d2bb8a7c56.png",
+    "static/media/boy.png": "/Rushi-cv/static/media/boy.f8f6f6510f10fe95c358.png",
+    "static/media/sidebar.png": "/Rushi-cv/static/media/sidebar.6942588f36023ab0cb56.png",
+    "static/media/glassesimoji.png": "/Rushi-cv/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/Rushi-cv/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Rushi-cv/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Rushi-cv/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Rushi-cv/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Rushi-cv/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Rushi-cv/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Rushi-cv/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Rushi-cv/index.html",
+    "main.dc3f4b96.css.map": "/Rushi-cv/static/css/main.dc3f4b96.css.map",
+    "main.777483ff.js.map": "/Rushi-cv/static/js/main.777483ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3f4b96.css",
+    "static/js/main.777483ff.js"
+  ]
+}
